@@ -26,27 +26,28 @@ See [README] for more exhaustive information on features and potential misfeatur
    [balaclark]: https://github.com/balaclark/HTML5-Comic-Book-Reader
    [PDF]: https://en.wikipedia.org/wiki/Portable_Document_Format
    [pdf.js]: https://github.com/mozilla/pdf.js
-   [README]: https://github.com/e-alfred/epubreader/blob/master/epubreader/README.md
+   [README]: https://github.com/EssGeeEich/epubreader/blob/master/epubreader/README.md
 	]]>
     </description>
-    <version>1.4.7</version>
+    <version>1.4.8</version>
     <licence>agpl</licence>
     <author>Frank de Lange</author>
     <author>e-alfred</author>
-    <documentation>https://github.com/e-alfred/epubreader</documentation>
+    <author>EssGeeEich</author>
+    <documentation>https://github.com/EssGeeEich/epubreader</documentation>
     <category>files</category>
     <category>multimedia</category>
     <category>office</category>
-    <bugs>https://github.com/e-alfred/epubreader</bugs>
-    <website>https://github.com/e-alfred/epubreader</website>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/epubreader-1.png?raw=true</screenshot>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/epubreader-3.png?raw=true</screenshot>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/epubreader_PDF_005.png?raw=true</screenshot>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/epubreader_PDF_006.png?raw=true</screenshot>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/photo_2017-03-15_17-22-00.jpg?raw=true</screenshot>
-    <screenshot>https://github.com/e-alfred/epubreader/blob/master/screenshots/photo_2017-03-15_17-22-02.jpg?raw=true</screenshot>
+    <bugs>https://github.com/EssGeeEich/epubreader</bugs>
+    <website>https://github.com/EssGeeEich/epubreader</website>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/epubreader-1.png?raw=true</screenshot>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/epubreader-3.png?raw=true</screenshot>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/epubreader_PDF_005.png?raw=true</screenshot>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/epubreader_PDF_006.png?raw=true</screenshot>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/photo_2017-03-15_17-22-00.jpg?raw=true</screenshot>
+    <screenshot>https://github.com/EssGeeEich/epubreader/blob/master/screenshots/photo_2017-03-15_17-22-02.jpg?raw=true</screenshot>
     <dependencies>
-        <nextcloud min-version="21" max-version="23"/>
+        <nextcloud min-version="21" max-version="24"/>
     </dependencies>
 	<settings>
 		<personal>OCA\Epubreader\Settings\Personal</personal>
