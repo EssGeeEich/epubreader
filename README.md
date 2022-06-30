@@ -1,6 +1,21 @@
 epubreader
 ------------
 
+# Installation
+
+This fork is aimed to bring compatibility with Nextcloud 24.
+
+To install this version, follow these steps:
+
+- Download the [archive](https://github.com/EssGeeEich/epubreader/archive/refs/heads/master.zip)
+- In your NextCloud instance, uninstall epubreader
+- Access your NextCloud instance via FTP or similar means, delete the `nextcloud/apps/epubreader` folder
+- Unzip this archive in your `nextcloud/apps/` folder
+- Verify that this folder is now named `nextcloud/apps/epubreader` and that the file `nextcloud/apps/epubreader/appinfo/info.xml` exists.
+- Open the "Apps" menu, go to the "My Apps" section and enable "epubreader".
+
+# epubreader
+
 Reader is an ebook reader based on pure javascript renderers. It works for publications formatted according to the following standards:
 
  - [Epub]
